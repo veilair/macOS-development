@@ -6,7 +6,7 @@ This repo builds on the awesome work from the following repos:
 * [dotfiles](https://github.com/mathiasbynens/dotfiles) by Mathias Bynens
 * [mac-dev-setup](https://github.com/nicolashery/mac-dev-setup) by Nicolas Hery
 
-* Ongoing Improvement of [macOS-development](https://github.com/veilair/macOS-development) by Paul Veillard
+* Ongoing Improvement of repos [macOS-development](https://github.com/veilair/macOS-development) by Paul Veillard
 
 #### Image Credits
 
