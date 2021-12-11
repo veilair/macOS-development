@@ -1,5 +1,5 @@
 # macOS Development
-> Welcome to MacOS Local Development & Setup. An ongoing curated list of OS X best applications, libraries, frameworks and tools to help developer set up their macOS Laptop.
+> Welcome to MacOS Local Development & Setup. An ongoing curated list of OS X best applications, libraries, frameworks and tools to help developers set up their macOS Laptop.
 
 ## Motivation
 
