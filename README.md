@@ -1,6 +1,9 @@
 # macOS Development Setup
 > Welcome to MacOS Local Development & Setup. An ongoing curated list of OS X best applications, libraries, frameworks and tools to help developers set up their macOS Laptop.
 
+
+![MacOs](https://github.com/veilair/macOS-development/blob/main/img/macos-development.png)
+
 ## Motivation
 
 Setting up a new developer machine can be an **ad-hoc, manual, and time-consuming** process.  `dev-setup` aims to **simplify** the process with **easy-to-understand instructions** and **dotfiles/scripts** to **automate the setup** of the following:
