@@ -1,4 +1,4 @@
-# macOS Development
+# macOS Development Setup
 > Welcome to MacOS Local Development & Setup. An ongoing curated list of OS X best applications, libraries, frameworks and tools to help developers set up their macOS Laptop.
 
 ## Motivation
@@ -18,7 +18,7 @@ Setting up a new developer machine can be an **ad-hoc, manual, and time-consumin
 
 ### But...I Don't Need All These Tools!
 
-**`macOS Development` is geared to be more of an organized *reference* of various developer tools.**
+**`macOS Development Setup` is geared to be more of an organized *reference* of various developer tools.**
 
 **You're *not* meant to install everything.**
 
