@@ -18,7 +18,7 @@ Setting up a new developer machine can be an **ad-hoc, manual, and time-consumin
 
 ### But...I Don't Need All These Tools!
 
-**`dev-setup` is geared to be more of an organized *reference* of various developer tools.**
+**`macOS Development` is geared to be more of an organized *reference* of various developer tools.**
 
 **You're *not* meant to install everything.**
 
