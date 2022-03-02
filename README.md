@@ -1866,7 +1866,7 @@ If you prefer to install it separately, you can download it [here](https://www.j
     $ brew install caskroom/cask/brew-cask
     $ brew cask install --appdir="~/Applications" intellij-idea-ce
 
-## Section 8: Misc
+## `Section 8: Misc`
 
 ### Contributions
 
@@ -1879,7 +1879,7 @@ See the [Credits Page](https://github.com/donnemartin/dev-setup/blob/master/CRED
 The original repo was forked from [Donne Martin](https://github.com/donnemartin/) and all credits are assigned to that person. 
 
 
-### Licenses
+### `Licenses`
 License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
